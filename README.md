@@ -1,4 +1,12 @@
-# week6
+# week6  
+
+### Задание 1  
+
+myTicketContract.sol  
+0xdaFBAE8Ef2E09828bD83427A70FA077822de5551  
+При попытке вызвать функцию createNewToken в Ethereum Wallet получаю ошибку "It seems this transaction will fail. If you submit it, it may consume all the gas you provide." Не могу понять, в чем проблема?
+
+<br/>
 
 ### Задание 2 
 
