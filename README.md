@@ -18,7 +18,7 @@ https://tastweek6.herokuapp.com/
 Баланс первого аккаунта пополниться о 50 BTC
 
 
-Транзакция тестового ВТС https://www.blocktrail.com/tBTC/tx/aff1f506b1cad762c95c729822f529b77c983eef6924565c64c2ecdaa106b38e
+Транзакция тестового ВТС https://www.blocktrail.com/tBTC/tx/86ec38aaba0e4d1d00125c265b25ed0d7c311565ca9ba30cd54d570c3b92a29d#tx_messages
 
 <br/>
 
