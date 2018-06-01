@@ -16,3 +16,6 @@ https://tastweek6.herokuapp.com/
 
 1.2. Что будет с балансами аккаунтов при выполнении generate 1 (создании еще одного блока)?  
 Баланс первого аккаунта пополниться о 50 BTC
+
+
+Транзакция тестового ВТС https://www.blocktrail.com/tBTC/tx/aff1f506b1cad762c95c729822f529b77c983eef6924565c64c2ecdaa106b38e
